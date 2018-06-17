@@ -13,16 +13,10 @@ url: "https://kgusman.github.io/" # the base hostname & protocol for your site
 # Build settings
 include: [_pages]
 markdown: kramdown
-<<<<<<< Updated upstream
-theme: jekyll-theme-slate
-plugins:
-  - jekyll-feed
-=======
 permalink: /:year/:month/:title
 
 sass:
     style: compressed
 
 exclude: [vendor]
->>>>>>> Stashed changes
 
