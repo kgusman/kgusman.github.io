@@ -2,7 +2,7 @@
 layout: post
 title: "Tmux Guide"
 description: "Description of tmux with necessary commands"
-date: 2016-08-15
+date: 2018-06-17
 tags: programming command_line
 ---
 
