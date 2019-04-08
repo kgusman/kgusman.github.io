@@ -6,7 +6,6 @@ date: 2018-09-10
 tags: programming python interview yandex
 ---
 
-# Yandex interview
 It was my first interview for Python back-end developer in Yandex. Below you can see the theoretical questions and tasks that were provided to me.
 
 ## Questions
