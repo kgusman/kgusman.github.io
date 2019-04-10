@@ -5,10 +5,10 @@ permalink: /about/
 ---
 Hi, I'm Kamill and I live in Innopolis, Russia.
 
-Currently, I'm Bachelor Student of Innopolis University. My interests are Machine Learning, Deep Learning, UX/UI, foreign languages, and sport. 
+Currently, I'm Bachelor Student of Innopolis University. My interests are Machine Learning, Deep Learning, Project Management, foreign languages, and sport. 
 
 
-I work in MTS IT as the front-end developer.
+I work in MTS IT as Full-stack developer (Java/JavaScript).
 
 ----
 
