@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+# 2019
+[CNN LSTM Network Architecture for Modeling Software Reliability](https://link.springer.com/chapter/10.1007/978-3-030-29852-4_17)
+
 # 2018
 [On the adoption of neural networks in modeling software reliability](https://dl.acm.org/citation.cfm?id=3275433)
 

@@ -3,12 +3,9 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm Kamill and I live in Innopolis, Russia.
+Hi, I'm Kamill and currently I live in Phnom Penh, Cambodia.
 
-Currently, I'm Bachelor Student of Innopolis University. My interests are Machine Learning, Deep Learning, Project Management, foreign languages, and sport. 
-
-
-I work in MTS IT as Full-stack developer (Java/JavaScript).
+I finished Innopolis University in 2019 with a Bachelor degree in Computer Science. I still looking for my interests and hobbies.
 
 ----
 
@@ -16,4 +13,6 @@ I work in MTS IT as Full-stack developer (Java/JavaScript).
 
 - [Instagram](https://www.instagram.com/kamillgusmanov/)
 - [Facebook](https://www.facebook.com/kamill.gusmanov)
+- [Telegram](https://t.me/GusmanovKamill)
+- [Telegram Channel](https://t.me/brain_gear)
 
